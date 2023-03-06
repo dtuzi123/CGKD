@@ -3,7 +3,7 @@
 
 >📋 This is the implementation of Continual Variational Autoencoder via Continual Generative Knowledge
 
->📋 Accepted by AAAI 2023
+>📋 Accepted by AAAI 2023 (Oral)
 
 # Title : Continual Variational Autoencoder via Continual Generative Knowledge
 
